@@ -1,5 +1,5 @@
 name: 'devblog citations'
-description: 'Allows automatic processing of a devblog assuming you have a devblog folder with devblog markdown files and a refs.bib file. uses pandoc to rewrite devblogs on push that have proper citations and a reference section.'
+description: 'Allows automatic processing of references in a devblog that is hosted in the repo.'
 branding:
   icon: 'activity'  
   color: 'green'
